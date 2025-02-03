@@ -1,0 +1,5 @@
+# Ignore SPIR-V binary files
+*.spv
+
+# Ignore bin directory
+bin/
